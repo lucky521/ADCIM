@@ -1,0 +1,126 @@
+[ 2013-05-24T22:13:20+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000380s ]
+[ 2013-05-24T22:13:20+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000045s ]
+[ 2013-05-24T22:13:20+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000031s ]
+[ 2013-05-24T22:13:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:44+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000375s ]
+[ 2013-05-24T22:13:44+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000047s ]
+[ 2013-05-24T22:13:44+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000030s ]
+[ 2013-05-24T22:13:44+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:44+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:44+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:44+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:44+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:44+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:44+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:13:44+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000491s ]
+[ 2013-05-24T22:14:17+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000052s ]
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000377s ]
+[ 2013-05-24T22:14:17+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000046s ]
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:17+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:18+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000373s ]
+[ 2013-05-24T22:14:18+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000046s ]
+[ 2013-05-24T22:14:18+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:18+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:18+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:18+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:18+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:18+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:18+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:14:18+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 8 行.
+[ 2013-05-24T22:18:40+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000445s ]
+[ 2013-05-24T22:18:40+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000054s ]
+[ 2013-05-24T22:18:40+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:18:40+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:18:40+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:18:40+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:18:40+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:18:40+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:18:40+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:18:40+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:20:27+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000386s ]
+[ 2013-05-24T22:20:27+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000047s ]
+[ 2013-05-24T22:20:28+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:20:28+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:20:28+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:20:28+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:20:28+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:20:28+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:20:28+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:20:28+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:20+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000380s ]
+[ 2013-05-24T22:22:20+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000046s ]
+[ 2013-05-24T22:22:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:20+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:21+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000381s ]
+[ 2013-05-24T22:22:21+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000047s ]
+[ 2013-05-24T22:22:21+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:21+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:21+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:21+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:21+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:21+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:21+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:21+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:40+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000384s ]
+[ 2013-05-24T22:22:40+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000046s ]
+[ 2013-05-24T22:22:50+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000375s ]
+[ 2013-05-24T22:22:50+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000055s ]
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000372s ]
+[ 2013-05-24T22:22:50+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000046s ]
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000389s ]
+[ 2013-05-24T22:22:50+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000046s ]
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:22:50+08:00 ] NOTIC: [8] Undefined index: data 670971eb74474024eec675f2baeab9ae.php 第 7 行.
+[ 2013-05-24T22:23:52+08:00 ] SQL: SHOW COLUMNS FROM `demo_data` [ RunTime:0.000389s ]
+[ 2013-05-24T22:23:52+08:00 ] SQL: SELECT * FROM `demo_data` [ RunTime:0.000046s ]
